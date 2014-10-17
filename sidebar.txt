@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ybj:home|Door43 (ybj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ybj|d43-ybj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ybj/archive/master.zip|d43-ybj.zip]]
+
+**Recent Changes**
+{{changes>ns = ybj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ybj|Ethnologue data]]
+
